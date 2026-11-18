@@ -1,0 +1,16 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <defs>
+    <linearGradient id="g">
+      <stop stop-color="#feda75"></stop>
+      <stop offset=".5" stop-color="#fa7e1e"></stop>
+      <stop offset="1" stop-color="#d62976"></stop>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="70" height="70" rx="20" fill="none" stroke="url(#g)" stroke-width="6"></rect>
+  <circle cx="40" cy="40" r="16" fill="none" stroke="url(#g)" stroke-width="6"></circle>
+  <circle cx="59" cy="21" r="4" fill="#d62976"></circle>
+  <text x="90" y="51" font-size="32" font-family="Georgia, serif" fill="#262626">
+    InstaPractice
+  </text>
+</svg>

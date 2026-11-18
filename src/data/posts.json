@@ -1,0 +1,64 @@
+
+[
+  {
+    "id": 1,
+    "username": "alexandrawaves",
+    "fullName": "Alexandra",
+    "avatar": "https://i.pravatar.cc/150?img=47",
+    "location": "Amalfi Coast, Italy",
+    "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=1080",
+    "caption": "A little postcard from the coast. ☀️",
+    "likes": 1248,
+    "comments": [
+      {
+        "username": "mika.jpg",
+        "text": "Dreamy views!"
+      }
+    ],
+    "timeAgo": "2 hours ago",
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": 2,
+    "username": "the.dailybrew",
+    "fullName": "The Daily Brew",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "location": "Melbourne, Australia",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1080",
+    "caption": "Coffee first, everything else later. ☕",
+    "likes": 832,
+    "comments": [],
+    "timeAgo": "4 hours ago",
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": 3,
+    "username": "urban.frames",
+    "fullName": "Jordan Lee",
+    "avatar": "https://i.pravatar.cc/150?img=11",
+    "location": "Tokyo, Japan",
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4de9a1f8b?w=1080",
+    "caption": "Neon nights and quiet side streets.",
+    "likes": 2351,
+    "comments": [],
+    "timeAgo": "7 hours ago",
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "id": 4,
+    "username": "plant.palette",
+    "fullName": "Maya Green",
+    "avatar": "https://i.pravatar.cc/150?img=44",
+    "location": "Home",
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=1080",
+    "caption": "Making room for a little more green. 🌿",
+    "likes": 679,
+    "comments": [],
+    "timeAgo": "1 day ago",
+    "isLiked": false,
+    "isSaved": false
+  }
+]
